@@ -73,6 +73,9 @@ html{
     font-weight: 700;
     color: #333;
     background-color: #fff;
+    border: 3rem solid #333;
+    padding: 5rem 1 rem;
+    text-transform: uppercase;
 }
 /* End of Section 1 */
 
