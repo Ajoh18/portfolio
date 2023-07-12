@@ -69,7 +69,10 @@ html{
     transform: skew(-10deg);
 }
 .section-1-btn{
-    font-size: ;
+    font-size: 1.7rem ;
+    font-weight: 700;
+    color: #333;
+    background-color: #fff;
 }
 /* End of Section 1 */
 
