@@ -120,3 +120,16 @@ html {
 }
 
 /* End of Navbar */
+
+ /* Section-2 */
+
+ .section-2{
+  width:100%;
+  height:100%;
+  padding:15rem 0 10rem 0;
+  background-color:#fff;
+  display:flex;
+  flex-directionh:column;
+
+ }
+ /* End of section 2 */
