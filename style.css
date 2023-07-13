@@ -142,4 +142,18 @@ html {
   border-bottom:.3rem solid #333 ;
   text-shadow: .2rem .2rem .5rem #555;
  }
+ .progress-bars-wrapper{
+  margin-bottom:10rem ;
+ }
+
+ .progress-bars-wrapper{
+  width: 60rem;
+  height:3rem ;
+  background-color: #ccc;
+
+
+ }
+
+
+ 
  /* End of section 2 */
